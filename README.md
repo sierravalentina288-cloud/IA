@@ -1,4 +1,4 @@
-# IA
+# Inteligencia Artificial
 Actividad 2 - Búsqueda y sistemas basados en reglas
 
 # Descripción del Proyecto
